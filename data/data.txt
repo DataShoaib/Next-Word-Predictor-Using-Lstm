@@ -1,0 +1,46 @@
+faqs = """
+What is artificial intelligence? Artificial intelligence is the ability of machines to simulate human intelligence and perform tasks such as learning and decision making.
+Why is artificial intelligence important today? Artificial intelligence helps automate complex tasks, analyze large amounts of data, and build intelligent applications.
+What is machine learning? Machine learning is a technique where computers learn patterns from data and improve performance over time.
+How is machine learning different from traditional programming? In traditional programming rules are written by humans, while in machine learning systems learn rules from data.
+What is deep learning? Deep learning is a type of machine learning that uses neural networks with many layers to learn complex patterns.
+What is a dataset in machine learning? A dataset is a collection of data used to train and evaluate machine learning models.
+What is training data? Training data is the information used by a model to learn patterns and relationships.
+What is testing data? Testing data is used to evaluate how well a trained model performs on unseen data.
+What is overfitting? Overfitting occurs when a model learns the training data too well and fails to generalize to new data.
+What is underfitting? Underfitting happens when a model is too simple and cannot capture patterns in the data.
+Why is Python popular in data science? Python is easy to learn and has powerful libraries for machine learning and data analysis.
+What are popular Python libraries for data science? Common libraries include NumPy, Pandas, Matplotlib, and Scikit-learn.
+What is data analysis? Data analysis is the process of examining data to discover patterns and useful insights.
+What is data visualization? Data visualization means presenting data using charts and graphs for better understanding.
+What is a neural network? A neural network is a computational model inspired by the human brain that learns patterns from data.
+What is natural language processing? Natural language processing allows computers to understand and generate human language.
+What is a chatbot? A chatbot is a program that interacts with users and answers questions automatically.
+What is a language model? A language model predicts the probability of words appearing in a sequence.
+What is next word prediction? Next word prediction means predicting the most likely next word in a sentence.
+Why are language models useful? Language models are used in chatbots, translation systems, search engines, and smart keyboards.
+What is a token in NLP? A token is a small unit of text such as a word used in language processing.
+What is text preprocessing? Text preprocessing is the process of cleaning and preparing text before training a model.
+Why is data cleaning important? Clean data helps machine learning models learn better patterns and improve accuracy.
+What is feature engineering? Feature engineering is the process of creating useful input features from raw data.
+What is model training? Model training is the process where a machine learning algorithm learns patterns from data.
+What is model evaluation? Model evaluation measures how well a trained model performs on new data.
+What is accuracy in machine learning? Accuracy is the percentage of correct predictions made by the model.
+What is a recommendation system? A recommendation system suggests products or content based on user behavior.
+What is a predictive model? A predictive model uses historical data to forecast future outcomes.
+What is a data scientist? A data scientist analyzes data and builds models to solve real world problems.
+What is the role of statistics in data science? Statistics helps understand patterns, relationships, and uncertainty in data.
+What is the difference between AI and machine learning? Artificial intelligence is a broad field while machine learning is a subset that learns from data.
+What is cloud computing? Cloud computing allows users to store data and run applications on remote servers.
+Why are real world projects important in learning? Projects help apply theoretical knowledge and improve practical skills.
+What is automation? Automation means using technology to perform tasks with minimal human intervention.
+What is big data? Big data refers to extremely large datasets that require specialized tools for processing.
+What is data engineering? Data engineering focuses on building pipelines to collect, store, and process data.
+What is model deployment? Model deployment means making a trained model available for real world use.
+What is an API? An API allows different software systems to communicate with each other.
+What is a machine learning pipeline? A machine learning pipeline is a sequence of steps used to build and deploy models.
+What is the best way to learn machine learning? The best way is to combine theory with practice and build many projects.
+Can beginners learn artificial intelligence? Yes beginners can start with Python and gradually move toward machine learning concepts.
+What is the future of artificial intelligence? Artificial intelligence will continue transforming industries such as healthcare, finance, and education.
+Why is continuous learning important in technology? Technology evolves quickly and professionals must keep learning to stay relevant.
+"""
